@@ -1,0 +1,11 @@
+2025/08/27-19:08:19.408 738b Reusing MANIFEST /home/tanner/.config/vesktop/sessionData/Local Storage/leveldb/MANIFEST-000001
+2025/08/27-19:08:19.450 738b Recovering log #25
+2025/08/27-19:08:19.450 738b Level-0 table #28: started
+2025/08/27-19:08:19.452 738b Level-0 table #28: 39452 bytes OK
+2025/08/27-19:08:19.452 738b Recovering log #28
+2025/08/27-19:08:19.453 738b Reusing old log /home/tanner/.config/vesktop/sessionData/Local Storage/leveldb/000028.log 
+2025/08/27-19:08:19.455 738b Delete type=0 #25
+2025/08/27-19:08:19.455 738b Delete type=2 #29
+2025/08/27-19:10:19.972 738b Level-0 table #30: started
+2025/08/27-19:10:19.978 738b Level-0 table #30: 49379 bytes OK
+2025/08/27-19:10:19.979 738b Delete type=0 #28

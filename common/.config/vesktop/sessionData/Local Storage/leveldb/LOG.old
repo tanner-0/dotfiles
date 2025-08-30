@@ -1,0 +1,5 @@
+2025/08/26-22:23:26.151 8540 Reusing MANIFEST /home/tanner/.config/vesktop/sessionData/Local Storage/leveldb/MANIFEST-000001
+2025/08/26-22:23:26.193 8540 Recovering log #25
+2025/08/26-22:23:26.194 8540 Reusing old log /home/tanner/.config/vesktop/sessionData/Local Storage/leveldb/000025.log 
+2025/08/26-22:23:41.532 8624 Level-0 table #29: started
+2025/08/26-22:23:41.536 8624 Level-0 table #29: 39452 bytes OK

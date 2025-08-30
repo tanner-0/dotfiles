@@ -1,0 +1,57 @@
+k# ── Font ─────────────────────────────────────────────
+# font_family      Iosevka Nerd Font
+# bold_font        auto
+# italic_font      auto
+font_size        11
+
+# ── Layout ───────────────────────────────────────────
+line_spacing     1.1
+cursor_shape     beam
+cursor_blink     off
+
+# ── Opacity & Background ─────────────────────────────
+background_opacity        0.90
+background                #111111
+foreground                #d6cbb9
+selection_background      #333333
+cursor_color              #e0b080
+
+# ── Color Palette — Muted Bone and Ash ───────────────
+color0   #1c1c1c  
+color1   #7f4c4c  
+color2   #6a7f5c 
+color3   #99875d
+color4   #5d6a7f 
+color5   #7f5d6a  
+color6   #5c7f7a  
+color7   #c6bda9  
+color8   #2a2a2a
+color9   #a16565
+color10  #83976a
+color11  #b1a16e
+color12  #7a8ca3
+color13  #9e768a
+color14  #7fa09e
+color15  #e3dccc
+
+# ── Tab Bar (Optional) ───────────────────────────────
+tab_bar_edge         bottom
+tab_bar_style        powerline
+active_tab_foreground   #1c1c1c
+active_tab_background   #c6bda9
+inactive_tab_foreground #777777
+inactive_tab_background #222222
+
+# ── Behavior ─────────────────────────────────────────
+enable_audio_bell      no
+confirm_os_window_close 0
+scrollback_lines       5000
+
+
+
+# BEGIN_KITTY_FONTS
+font_family      family="Adwaita Mono"
+bold_font        auto
+italic_font      auto
+bold_italic_font auto
+# END_KITTY_FONTS

@@ -1,0 +1,13 @@
+[LegacySession: saved at previous logout]
+count=0
+
+[Session: saved at previous logout]
+clientId1=10145dbd1dd000175363245500000009590003
+count=1
+program1=firefox
+restartCommand1=/usr/lib/firefox/firefox,--sm-client-id,10145dbd1dd000175363245500000009590003
+restartStyleHint1=0
+userId1=tanner
+
+[SubSession: 232890f9-de8f-494b-b362-b19a5a11df0c]
+count=0
